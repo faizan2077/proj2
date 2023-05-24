@@ -1,0 +1,20 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.ant-collapse-header-text{
+  flex:none !important;
+}
+
+.menu-item-icon{
+  margin: 0 5px;
+}
+
+.empty{
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
